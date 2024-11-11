@@ -1,0 +1,17 @@
+assets/player.png
+FrameSize 70 100
+HotSpot 25 30
+Frame 0 0
+Frame 70 0
+Frame 140 0
+Frame 0 100
+Frame 70 100
+Frame 140 100
+Frame 0 200
+Frame 70 200
+Frame 140 200
+Anim assets/playerIdle.anm
+Anim assets/playerLeft.anm
+Anim assets/playerRight.anm
+Anim assets/playerUp.anm
+Anim assets/playerDown.anm
